@@ -1,0 +1,6 @@
+{
+  "name": "Shookra Aesthetics & Academy",
+  "description": "Premium aesthetic clinic & academy in Shivalik Colony, New Delhi offering advanced skin, hair, and beauty treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
